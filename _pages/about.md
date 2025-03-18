@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 This page is under construction.
-
-See [academicpages.github.io/](https://academicpages.github.io/)
